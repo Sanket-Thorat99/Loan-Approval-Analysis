@@ -55,4 +55,4 @@ The dataset contains 1,000 records and 20 features, including:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sanket-Thorat99/Loan-Approval-Analysis.git
